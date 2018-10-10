@@ -1,0 +1,15 @@
+{
+  "name": "integrity-files",
+  "version": "0.1.0",
+  "description": "Generate file with sha-1 of all files from folder",
+  "main": "IntegrityFiles.js",
+  "bin": {
+    "IntegrityFiles": "IntegrityFiles.js"
+  },
+  "author": {
+    "name": "Welbert Serra"
+  },
+  "dependencies": {
+    "sha1-file": "^1.0.1"
+  }
+}
